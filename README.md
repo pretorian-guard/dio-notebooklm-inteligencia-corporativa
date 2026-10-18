@@ -1,63 +1,72 @@
 # Segundo Cérebro de Inteligência Corporativa — DIO NotebookLM
 
-Projeto educacional para o desafio **Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM**, com foco em **Inteligência Corporativa, OSINT, Due Diligence e Prevenção de Fraudes**.
+Projeto do desafio **DIO — Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM**, com foco em **Inteligência Corporativa, OSINT, Due Diligence e Prevenção de Fraudes**.
 
-## Objetivo
-Construir um caderno de aprendizagem fundamentado em fontes selecionadas, para compreender métodos de investigação em fontes abertas, avaliação de risco e prevenção de fraudes, com respostas acompanhadas de citações rastreáveis e materiais de revisão.
+## Tema e objetivo
+Construir um notebook de aprendizagem apoiado em fontes selecionadas para estudar investigação em fontes abertas, transparência societária, análise de risco e prevenção de fraudes, com respostas fundamentadas em citações e materiais de revisão.
 
-## Notebook compartilhado
-[Visualizar notebook no Google NotebookLM](https://notebook.google.com/notebook/6610bbfe-0b76-4551-9d1c-94423f3e358d)
+## Acesso ao notebook
+[Visualizar no NotebookLM](https://notebook.google.com/notebook/6610bbfe-0b76-4551-9d1c-94423f3e358d)
 
-> A configuração “Qualquer pessoa com o link” foi exibida na interface do proprietário. O acesso externo ainda deve ser testado com outra conta Google.
+> A interface mostrou a opção “Qualquer pessoa com o link”. Recomenda-se testar o endereço com outra conta Google, pois o acesso externo não foi verificado independentemente.
 
 ## Metodologia
-1. Definir o recorte temático e os critérios de confiabilidade.
-2. Selecionar e importar fontes institucionais e materiais em formatos diferentes.
-3. Configurar a diretriz do tutor.
-4. Formular perguntas e conferir cada resposta **nas citações do NotebookLM**.
-5. Gerar materiais de estudo e registrar evidências da interface.
-6. Revisar privacidade, direitos autorais e precisão antes da publicação.
+1. Definir o objetivo e a abrangência do tema.
+2. Selecionar fontes confiáveis de mais de um formato.
+3. Importar as fontes e orientar o comportamento do tutor.
+4. Formular perguntas, analisar respostas e abrir os marcadores de citação.
+5. Produzir materiais no Estúdio e registrar capturas de tela.
+6. Documentar os resultados no GitHub, respeitando direitos autorais e privacidade.
 
-## Fontes candidatas e justificativas
-| Fonte | Formato | Justificativa |
+## Fontes de referência
+As fontes abaixo foram selecionadas na etapa de curadoria. A lista completa de fontes efetivamente importadas deve ser conferida na interface do notebook.
+
+| Referência | Formato | Por que foi escolhida |
 | --- | --- | --- |
-| [Bellingcat — Online Investigations Toolkit](https://www.bellingcat.com/resources/2024/09/24/bellingcat-online-investigations-toolkit/) | Artigo/guia | Metodologia e ferramentas de OSINT, com limitações |
-| [FATF/GAFI — Beneficial Ownership](https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Guidance-Beneficial-Ownership-Legal-Persons.html) | Guia/PDF | Padrões internacionais de transparência societária |
-| [ACFE — Fraud Resources](https://www.acfe.com/fraud-resources) | Relatório/recursos | Pesquisa e práticas de prevenção de fraudes |
-| [CGU — Guia Prático de Gestão de Riscos para a Integridade](https://www.gov.br/cgu/pt-br/centrais-de-conteudo/publicacoes/integridade/arquivos/manual-gestao-de-riscos.pdf) | PDF | Fonte governamental brasileira sobre riscos à integridade |
-| [ANPD — Guia sobre Legítimo Interesse](https://www.gov.br/anpd/pt-br/centrais-de-conteudo/materiais-educativos-e-publicacoes/guia_legitimo_interesse.pdf) | PDF | Orientações sobre proteção de dados pessoais |
+| [Bellingcat — Online Investigations Toolkit](https://www.bellingcat.com/resources/2024/09/24/bellingcat-online-investigations-toolkit/) | Guia on-line | Métodos, ferramentas e limitações de OSINT |
+| [FATF/GAFI — Beneficial Ownership](https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Guidance-Beneficial-Ownership-Legal-Persons.html) | Guia técnico | Padrões internacionais de transparência societária |
+| [ACFE — Fraud Resources](https://www.acfe.com/fraud-resources) | Relatórios/recursos | Estudo e prevenção de fraudes |
+| [CGU — Guia Prático de Gestão de Riscos para a Integridade](https://www.gov.br/cgu/pt-br/centrais-de-conteudo/publicacoes/integridade/arquivos/manual-gestao-de-riscos.pdf) | PDF | Gestão de riscos de integridade no Brasil |
+| [ANPD — Guia Orientativo sobre Legítimo Interesse](https://www.gov.br/anpd/pt-br/centrais-de-conteudo/materiais-educativos-e-publicacoes/guia_legitimo_interesse.pdf) | PDF | Proteção de dados pessoais |
 
-**Nota:** esta tabela lista fontes selecionadas para o projeto; a correspondência com as fontes efetivamente importadas precisa ser conferida no NotebookLM. Os conteúdos de terceiros são referenciados, não redistribuídos.
+## Diretriz de comportamento do tutor
+> Atue como tutor de Inteligência Corporativa, OSINT, Due Diligence e Prevenção de Fraudes. Responda com base nas fontes adicionadas. Cite as fontes de afirmações relevantes, distinga informações, evidências, inferências e hipóteses, sinalize lacunas e não invente fatos. Utilize exemplos fictícios e considere limites éticos, legais e de privacidade.
 
-## Diretriz para o tutor
-> Atue como tutor de Inteligência Corporativa, OSINT, Due Diligence e Prevenção de Fraudes. Responda com base exclusivamente nas fontes deste notebook. Cite as fontes relevantes; diferencie fatos, evidências, inferências e hipóteses; declare lacunas; não invente dados. Empregue exemplos fictícios e respeite privacidade e legislação aplicável.
-
-## Perguntas utilizadas na exploração
+## Perguntas de estudo
 1. Quais são os princípios fundamentais da OSINT e seus limites éticos?
-2. Como estruturar um processo de due diligence baseado em fontes públicas?
-3. Quais sinais de alerta justificam investigação preliminar de fraudes?
-4. Como distinguir informação, evidência, inferência e hipótese?
-5. Quais controles preventivos reduzem o risco de fraude?
+2. Como estruturar um processo de due diligence corporativa baseado em fontes públicas?
+3. Quais indicadores podem justificar investigação preliminar de fraude?
+4. Qual a diferença entre informação, evidência, inferência e hipótese?
+5. Quais controles ajudam a prevenir fraudes corporativas?
 
-As respostas em texto foram produzidas e compartilhadas pelo autor do projeto. **Falta registrar, no repositório, as capturas que exibem cada resposta e sua citação correspondente no NotebookLM.** Não se deve tratar resumos sem a referência visível como prova de rastreabilidade.
+### Evidências disponíveis
+As capturas abaixo mostram a interface, respostas e marcadores numerados do NotebookLM. **Os prints da lista de fontes e dos marcadores não substituem o registro do trecho efetivamente aberto ao clicar em cada citação.**
 
-## Materiais produzidos
-- Mapa mental: **Inteligência Corporativa: OSINT, Due Diligence e Fraudes** (arquivo recebido, ainda não publicado neste repositório).
-- Guia de estudos sobre **ASM, DRP, CTI e OSINT** (arquivo recebido, ainda não publicado).
-- Apresentação **Inteligência Corporativa Aplicada** (arquivo recebido, ainda não publicada).
-- Texto de perguntas e respostas de revisão (arquivo recebido, ainda não publicado).
+- [Resposta sobre due diligence e marcadores de citação](evidencias/01-due-diligence-resposta.png)
+- [Continuação de resposta sobre fatos, interpretações e hipóteses](evidencias/01-due-diligence-continuacao.png)
+- [Fontes selecionadas na interface do NotebookLM](evidencias/01-due-diligence-fonte.png)
 
-## Evidências e pendências
-- [x] Notebook criado e materiais de estudo produzidos.
-- [x] Opção de acesso “Qualquer pessoa com o link” identificada em captura de tela.
-- [ ] Confirmar acesso a partir de uma segunda conta Google.
-- [ ] Documentar as fontes efetivamente adicionadas ao notebook, com os títulos exatos.
-- [ ] Subir o mapa mental, guia e slides após revisão dos direitos e dos dados pessoais.
-- [ ] Anexar capturas das respostas **com suas citações** e vincular cada pergunta à fonte.
-- [ ] Revisar afirmações jurídicas, técnicas e estatísticas antes de afirmar que foram validadas.
+## Materiais produzidos no Estúdio
+- [Mapa mental — OSINT, Due Diligence e Fraudes](materiais/NotebookLM%20Mind%20Map.png)
+- [Guia de estudos — ASM, Segurança Cibernética e OSINT (DOCX)](materiais/Guia%20de%20Estudos_%20Gest%C3%A3o%20de%20Superf%C3%ADcie%20de%20Ataque%20%28ASM%29%2C%20Seguran%C3%A7a%20Cibern%C3%A9tica%20e%20Intelig%C3%AAncia%20de%20Fontes%20Abertas.docx)
+- [Apresentação — Inteligência Corporativa Aplicada (PPTX)](materiais/Intelig%C3%AAncia_Corporativa_Aplicada.pptx)
+- [Infográfico — OSINT e ASM](materiais/infografico-osint-asm.png)
 
-## Ética, limites e direitos
-O projeto é educacional. Informações públicas não são automaticamente livres de restrições de tratamento de dados. Indicadores de risco não constituem provas de fraude. A licença deste repositório não transfere direitos sobre publicações de terceiros.
+> **Cuidado com estatísticas:** o infográfico menciona que um terço dos vazamentos ocorreria em ativos desconhecidos. A origem, o período e o contexto desse número precisam ser verificados antes de tratá-lo como estatística comprovada.
 
-## Entrega DIO
-A URL de submissão é a deste **repositório público**, não apenas a do notebook.
+## Estado do projeto
+- [x] Notebook criado e link registrado.
+- [x] Mapa mental, guia, apresentação e infográfico publicados.
+- [x] Capturas com perguntas, respostas e marcadores de citação publicadas.
+- [x] Imagens organizadas em `evidencias/` e materiais em `materiais/`.
+- [ ] Validar o link com outra conta Google.
+- [ ] Registrar captura mostrando uma **citação aberta** e seu trecho de fonte.
+- [ ] Conferir títulos e autoria das fontes efetivamente importadas.
+- [ ] Revisar afirmações jurídicas e estatísticas dos materiais.
+
+## Ética e direitos
+Projeto educacional. A disponibilidade pública de um dado não elimina obrigações legais de proteção de dados. Alertas de risco não constituem prova de fraude. As fontes de terceiros são referenciadas sem reivindicação de titularidade sobre elas.
+
+## Entrega na DIO
+Envie o link deste **repositório público**, não apenas o endereço do NotebookLM:
+https://github.com/pretorian-guard/dio-notebooklm-inteligencia-corporativa
